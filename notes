@@ -1,0 +1,14 @@
+Materials
+ Python programming enviroment
+ TensorFlow package.
+ Data
+ UniProt database (SwissProt) of annotated protein sequences (reviewed) in Fasta format
+ File Name: uniprot_sprot.fasta
+ This file contains the sequence id followed by the whole sequence for
+ each protein sequence.
+
+https://www.uniprot.org/uniprot/?query=reviewed:yes
+ Protein Family Database:
+ File Nam
+Proteins are sequences of amino acid residues which perform most of the important biological functions within living organisms. Even though there are several hundred known naturally occuring amino acids, only 20 of them are encoded directly by triplet codons (a sequence of 3 amino acids) in the genetic code. Different proteins perform different functions within an organism. Thus proteins are grouped into families where a family of proteins are evolutionarily related to each other and thus perform similar function.
+The primary sequence of a protein the sequence of amino acids encoded in DNA. The main motivation for protein family identification methods is the fact that there are large number of known proteins but much less information is available about their function. Hence it is very desirable to have a computational method to identify the function of a protein given its primary sequence alone.
